@@ -1,6 +1,6 @@
 ---
 title: Choose your image! 
-layout: page
+layout: Home
 ---
 
 # Simple JS Image Classifiers
