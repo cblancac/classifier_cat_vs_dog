@@ -1,5 +1,5 @@
 ---
-title: Home
+title: Choose your image! 
 layout: page
 ---
 
